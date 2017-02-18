@@ -1,7 +1,7 @@
 Package: com.dude00000000001.InvertedColors
 Name: Ineverted colors theme
 Depends: com.anemonetheming.anemone
-Version: 0.0.1-beta
+Version: 0.1.0-beta
 Architecture: iphoneos-arm
 Description: An unfinished theme that makes your icons inverted
 Maintainer: dude00000000001
