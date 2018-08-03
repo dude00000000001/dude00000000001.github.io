@@ -1,0 +1,15 @@
+Package: com.dude00000000001.InvertedColors
+Version: 0.1.0-beta
+Architecture: iphoneos-arm
+Maintainer: dude00000000001
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.dude00000000001.invertedcolors_0.1.0-beta_iphoneos-arm.deb
+Size: 58978
+MD5sum: 9851ec896f767dfc509e189dfbb20535
+SHA1: a8ed85ed2cd1525da83b74b1554c4f5390138e8b
+SHA256: 1fcc5bee847907d441c2c5c71d529fe31b534fe540e181775c6a4628f1d529fa
+Section: Themes (SpringBoard)
+Description: An unfinished theme that makes your icons inverted
+Author: dude00000000001
+Name: Inverted Colors theme
+
